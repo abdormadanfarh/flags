@@ -1249,5 +1249,20 @@
         "name": "Zimbabwe",
         "language": "English, Shona, Ndebele",
         "continent": "Africa"
+    },
+    "MY": {
+        "name": "Malaysia",
+        "language": "Malay",
+        "continent": "Asia"
+    },
+    "NZ": {
+        "name": "New Zealand", 
+        "language": "English, Maori",
+        "continent": "Oceania"
+    },
+    "SO": {
+        "name": "Somalia",
+        "language": "Somali, Arabic",
+        "continent": "Africa"
     }
 }
