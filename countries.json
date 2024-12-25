@@ -1,256 +1,1253 @@
 {
-    "AD": "Andorra",
-    "AE": "United Arab Emirates",
-    "AF": "Afghanistan",
-    "AG": "Antigua and Barbuda",
-    "AI": "Anguilla",
-    "AL": "Albania",
-    "AM": "Armenia",
-    "AO": "Angola",
-    "AQ": "Antarctica",
-    "AR": "Argentina",
-    "AS": "American Samoa",
-    "AT": "Austria",
-    "AU": "Australia",
-    "AW": "Aruba",
-    "AX": "\u00c5land Islands",
-    "AZ": "Azerbaijan",
-    "BA": "Bosnia and Herzegovina",
-    "BB": "Barbados",
-    "BD": "Bangladesh",
-    "BE": "Belgium",
-    "BF": "Burkina Faso",
-    "BG": "Bulgaria",
-    "BH": "Bahrain",
-    "BI": "Burundi",
-    "BJ": "Benin",
-    "BL": "Saint Barthélemy",
-    "BM": "Bermuda",
-    "BN": "Brunei Darussalam",
-    "BO": "Bolivia, Plurinational State of",
-    "BQ": "Caribbean Netherlands",
-    "BR": "Brazil",
-    "BS": "Bahamas",
-    "BT": "Bhutan",
-    "BV": "Bouvet Island",
-    "BW": "Botswana",
-    "BY": "Belarus",
-    "BZ": "Belize",
-    "CA": "Canada",
-    "CC": "Cocos (Keeling) Islands",
-    "CD": "Congo, the Democratic Republic of the",
-    "CF": "Central African Republic",
-    "CG": "Republic of the Congo",
-    "CH": "Switzerland",
-    "CI": "C\u00f4te d'Ivoire",
-    "CK": "Cook Islands",
-    "CL": "Chile",
-    "CM": "Cameroon",
-    "CN": "China (People's Republic of China)",
-    "CO": "Colombia",
-    "CR": "Costa Rica",
-    "CU": "Cuba",
-    "CV": "Cape Verde",
-    "CW": "Cura\u00e7ao",
-    "CX": "Christmas Island",
-    "CY": "Cyprus",
-    "CZ": "Czech Republic",
-    "DE": "Germany",
-    "DJ": "Djibouti",
-    "DK": "Denmark",
-    "DM": "Dominica",
-    "DO": "Dominican Republic",
-    "DZ": "Algeria",
-    "EC": "Ecuador",
-    "EE": "Estonia",
-    "EG": "Egypt",
-    "EH": "Western Sahara",
-    "ER": "Eritrea",
-    "ES": "Spain",
-    "ET": "Ethiopia",
-    "EU": "Europe",
-    "FI": "Finland",
-    "FJ": "Fiji",
-    "FK": "Falkland Islands (Malvinas)",
-    "FM": "Micronesia, Federated States of",
-    "FO": "Faroe Islands",
-    "FR": "France",
-    "GA": "Gabon",
-    "GB-ENG": "England",
-    "GB-NIR": "Northern Ireland",
-    "GB-SCT": "Scotland",
-    "GB-WLS": "Wales",
-    "GB": "United Kingdom",
-    "GD": "Grenada",
-    "GE": "Georgia",
-    "GF": "French Guiana",
-    "GG": "Guernsey",
-    "GH": "Ghana",
-    "GI": "Gibraltar",
-    "GL": "Greenland",
-    "GM": "Gambia",
-    "GN": "Guinea",
-    "GP": "Guadeloupe",
-    "GQ": "Equatorial Guinea",
-    "GR": "Greece",
-    "GS": "South Georgia and the South Sandwich Islands",
-    "GT": "Guatemala",
-    "GU": "Guam",
-    "GW": "Guinea-Bissau",
-    "GY": "Guyana",
-    "HK": "Hong Kong",
-    "HM": "Heard Island and McDonald Islands",
-    "HN": "Honduras",
-    "HR": "Croatia",
-    "HT": "Haiti",
-    "HU": "Hungary",
-    "ID": "Indonesia",
-    "IE": "Ireland",
-    "IM": "Isle of Man",
-    "IN": "India",
-    "IO": "British Indian Ocean Territory",
-    "IQ": "Iraq",
-    "IR": "Iran, Islamic Republic of",
-    "IS": "Iceland",
-    "IT": "Italy",
-    "JE": "Jersey",
-    "JM": "Jamaica",
-    "JO": "Jordan",
-    "JP": "Japan",
-    "KE": "Kenya",
-    "KG": "Kyrgyzstan",
-    "KH": "Cambodia",
-    "KI": "Kiribati",
-    "KM": "Comoros",
-    "KN": "Saint Kitts and Nevis",
-    "KP": "Korea, Democratic People's Republic of",
-    "KR": "Korea, Republic of",
-    "KW": "Kuwait",
-    "KY": "Cayman Islands",
-    "KZ": "Kazakhstan",
-    "LA": "Laos (Lao People's Democratic Republic)",
-    "LB": "Lebanon",
-    "LC": "Saint Lucia",
-    "LI": "Liechtenstein",
-    "LK": "Sri Lanka",
-    "LR": "Liberia",
-    "LS": "Lesotho",
-    "LT": "Lithuania",
-    "LU": "Luxembourg",
-    "LV": "Latvia",
-    "LY": "Libya",
-    "MA": "Morocco",
-    "MC": "Monaco",
-    "MD": "Moldova, Republic of",
-    "ME": "Montenegro",
-    "MF": "Saint Martin",
-    "MG": "Madagascar",
-    "MH": "Marshall Islands",
-    "MK": "North Macedonia",
-    "ML": "Mali",
-    "MM": "Myanmar",
-    "MN": "Mongolia",
-    "MO": "Macao",
-    "MP": "Northern Mariana Islands",
-    "MQ": "Martinique",
-    "MR": "Mauritania",
-    "MS": "Montserrat",
-    "MT": "Malta",
-    "MU": "Mauritius",
-    "MV": "Maldives",
-    "MW": "Malawi",
-    "MX": "Mexico",
-    "MY": "Malaysia",
-    "MZ": "Mozambique",
-    "NA": "Namibia",
-    "NC": "New Caledonia",
-    "NE": "Niger",
-    "NF": "Norfolk Island",
-    "NG": "Nigeria",
-    "NI": "Nicaragua",
-    "NL": "Netherlands",
-    "NO": "Norway",
-    "NP": "Nepal",
-    "NR": "Nauru",
-    "NU": "Niue",
-    "NZ": "New Zealand",
-    "OM": "Oman",
-    "PA": "Panama",
-    "PE": "Peru",
-    "PF": "French Polynesia",
-    "PG": "Papua New Guinea",
-    "PH": "Philippines",
-    "PK": "Pakistan",
-    "PL": "Poland",
-    "PM": "Saint Pierre and Miquelon",
-    "PN": "Pitcairn",
-    "PR": "Puerto Rico",
-    "PS": "Palestine",
-    "PT": "Portugal",
-    "PW": "Palau",
-    "PY": "Paraguay",
-    "QA": "Qatar",
-    "RE": "Réunion",
-    "RO": "Romania",
-    "RS": "Serbia",
-    "RU": "Russian Federation",
-    "RW": "Rwanda",
-    "SA": "Saudi Arabia",
-    "SB": "Solomon Islands",
-    "SC": "Seychelles",
-    "SD": "Sudan",
-    "SE": "Sweden",
-    "SG": "Singapore",
-    "SH": "Saint Helena, Ascension and Tristan da Cunha",
-    "SI": "Slovenia",
-    "SJ": "Svalbard and Jan Mayen Islands",
-    "SK": "Slovakia",
-    "SL": "Sierra Leone",
-    "SM": "San Marino",
-    "SN": "Senegal",
-    "SO": "Somalia",
-    "SR": "Suriname",
-    "SS": "South Sudan",
-    "ST": "Sao Tome and Principe",
-    "SV": "El Salvador",
-    "SX": "Sint Maarten (Dutch part)",
-    "SY": "Syrian Arab Republic",
-    "SZ": "Swaziland",
-    "TC": "Turks and Caicos Islands",
-    "TD": "Chad",
-    "TF": "French Southern Territories",
-    "TG": "Togo",
-    "TH": "Thailand",
-    "TJ": "Tajikistan",
-    "TK": "Tokelau",
-    "TL": "Timor-Leste",
-    "TM": "Turkmenistan",
-    "TN": "Tunisia",
-    "TO": "Tonga",
-    "TR": "Turkey",
-    "TT": "Trinidad and Tobago",
-    "TV": "Tuvalu",
-    "TW": "Taiwan (Republic of China)",
-    "TZ": "Tanzania, United Republic of",
-    "UA": "Ukraine",
-    "UG": "Uganda",
-    "UM": "US Minor Outlying Islands",
-    "US": "United States",
-    "UY": "Uruguay",
-    "UZ": "Uzbekistan",
-    "VA": "Holy See (Vatican City State)",
-    "VC": "Saint Vincent and the Grenadines",
-    "VE": "Venezuela, Bolivarian Republic of",
-    "VG": "Virgin Islands, British",
-    "VI": "Virgin Islands, U.S.",
-    "VN": "Vietnam",
-    "VU": "Vanuatu",
-    "WF": "Wallis and Futuna Islands",
-    "WS": "Samoa",
-    "XK": "Kosovo",
-    "YE": "Yemen",
-    "YT": "Mayotte",
-    "ZA": "South Africa",
-    "ZM": "Zambia",
-    "ZW": "Zimbabwe"
+    "AD": {
+        "name": "Andorra",
+        "language": "Catalan",
+        "continent": "Europe"
+    },
+    "AE": {
+        "name": "United Arab Emirates",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "AF": {
+        "name": "Afghanistan",
+        "language": "Pashto, Dari",
+        "continent": "Asia"
+    },
+    "AG": {
+        "name": "Antigua and Barbuda",
+        "language": "English",
+        "continent": "North America"
+    },
+    "AI": {
+        "name": "Anguilla",
+        "language": "English",
+        "continent": "North America"
+    },
+    "AL": {
+        "name": "Albania",
+        "language": "Albanian",
+        "continent": "Europe"
+    },
+    "AM": {
+        "name": "Armenia",
+        "language": "Armenian",
+        "continent": "Asia"
+    },
+    "AO": {
+        "name": "Angola",
+        "language": "Portuguese",
+        "continent": "Africa"
+    },
+    "AQ": {
+        "name": "Antarctica",
+        "language": "Multiple",
+        "continent": "Antarctica"
+    },
+    "AR": {
+        "name": "Argentina",
+        "language": "Spanish",
+        "continent": "South America"
+    },
+    "AS": {
+        "name": "American Samoa",
+        "language": "English, Samoan",
+        "continent": "Oceania"
+    },
+    "AT": {
+        "name": "Austria",
+        "language": "German",
+        "continent": "Europe"
+    },
+    "AU": {
+        "name": "Australia",
+        "language": "English",
+        "continent": "Oceania"
+    },
+    "AW": {
+        "name": "Aruba",
+        "language": "Dutch, Papiamento",
+        "continent": "North America"
+    },
+    "AX": {
+        "name": "Åland Islands",
+        "language": "Swedish",
+        "continent": "Europe"
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "language": "Azerbaijani",
+        "continent": "Asia"
+    },
+    "BA": {
+        "name": "Bosnia and Herzegovina",
+        "language": "Bosnian, Croatian, Serbian",
+        "continent": "Europe"
+    },
+    "BB": {
+        "name": "Barbados",
+        "language": "English",
+        "continent": "North America"
+    },
+    "BD": {
+        "name": "Bangladesh",
+        "language": "Bengali",
+        "continent": "Asia"
+    },
+    "BE": {
+        "name": "Belgium",
+        "language": "Dutch, French, German",
+        "continent": "Europe"
+    },
+    "BF": {
+        "name": "Burkina Faso",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "BG": {
+        "name": "Bulgaria",
+        "language": "Bulgarian",
+        "continent": "Europe"
+    },
+    "BH": {
+        "name": "Bahrain",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "BI": {
+        "name": "Burundi",
+        "language": "Kirundi, French",
+        "continent": "Africa"
+    },
+    "BJ": {
+        "name": "Benin",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "BL": {
+        "name": "Saint Barthélemy",
+        "language": "French",
+        "continent": "North America"
+    },
+    "BM": {
+        "name": "Bermuda",
+        "language": "English",
+        "continent": "North America"
+    },
+    "BN": {
+        "name": "Brunei Darussalam",
+        "language": "Malay",
+        "continent": "Asia"
+    },
+    "BO": {
+        "name": "Bolivia",
+        "language": "Spanish, Quechua, Aymara",
+        "continent": "South America"
+    },
+    "BQ": {
+        "name": "Caribbean Netherlands",
+        "language": "Dutch",
+        "continent": "North America"
+    },
+    "BR": {
+        "name": "Brazil",
+        "language": "Portuguese",
+        "continent": "South America"
+    },
+    "BS": {
+        "name": "Bahamas",
+        "language": "English",
+        "continent": "North America"
+    },
+    "BT": {
+        "name": "Bhutan",
+        "language": "Dzongkha",
+        "continent": "Asia"
+    },
+    "BV": {
+        "name": "Bouvet Island",
+        "language": "Norwegian",
+        "continent": "Antarctica"
+    },
+    "BW": {
+        "name": "Botswana",
+        "language": "English, Tswana",
+        "continent": "Africa"
+    },
+    "BY": {
+        "name": "Belarus",
+        "language": "Belarusian, Russian",
+        "continent": "Europe"
+    },
+    "BZ": {
+        "name": "Belize",
+        "language": "English",
+        "continent": "North America"
+    },
+    "CA": {
+        "name": "Canada",
+        "language": "English, French",
+        "continent": "North America"
+    },
+    "CC": {
+        "name": "Cocos (Keeling) Islands",
+        "language": "English",
+        "continent": "Asia"
+    },
+    "CD": {
+        "name": "Congo, Democratic Republic of the",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "CF": {
+        "name": "Central African Republic",
+        "language": "French, Sango",
+        "continent": "Africa"
+    },
+    "CG": {
+        "name": "Republic of the Congo",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "CH": {
+        "name": "Switzerland",
+        "language": "German, French, Italian, Romansh",
+        "continent": "Europe"
+    },
+    "CI": {
+        "name": "Côte d'Ivoire",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "CK": {
+        "name": "Cook Islands",
+        "language": "English, Cook Islands Maori",
+        "continent": "Oceania"
+    },
+    "CL": {
+        "name": "Chile",
+        "language": "Spanish",
+        "continent": "South America"
+    },
+    "CM": {
+        "name": "Cameroon",
+        "language": "English, French",
+        "continent": "Africa"
+    },
+    "CN": {
+        "name": "China",
+        "language": "Chinese",
+        "continent": "Asia"
+    },
+    "CO": {
+        "name": "Colombia",
+        "language": "Spanish",
+        "continent": "South America"
+    },
+    "CR": {
+        "name": "Costa Rica",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "CU": {
+        "name": "Cuba",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "CV": {
+        "name": "Cape Verde",
+        "language": "Portuguese",
+        "continent": "Africa"
+    },
+    "CW": {
+        "name": "Curaçao",
+        "language": "Dutch, Papiamento, English",
+        "continent": "North America"
+    },
+    "CX": {
+        "name": "Christmas Island",
+        "language": "English",
+        "continent": "Asia"
+    },
+    "CY": {
+        "name": "Cyprus",
+        "language": "Greek, Turkish",
+        "continent": "Europe"
+    },
+    "CZ": {
+        "name": "Czech Republic",
+        "language": "Czech",
+        "continent": "Europe"
+    },
+    "DE": {
+        "name": "Germany",
+        "language": "German",
+        "continent": "Europe"
+    },
+    "DJ": {
+        "name": "Djibouti",
+        "language": "Arabic, French",
+        "continent": "Africa"
+    },
+    "DK": {
+        "name": "Denmark",
+        "language": "Danish",
+        "continent": "Europe"
+    },
+    "DM": {
+        "name": "Dominica",
+        "language": "English",
+        "continent": "North America"
+    },
+    "DO": {
+        "name": "Dominican Republic",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "DZ": {
+        "name": "Algeria",
+        "language": "Arabic",
+        "continent": "Africa"
+    },
+    "EC": {
+        "name": "Ecuador",
+        "language": "Spanish",
+        "continent": "South America"
+    },
+    "EE": {
+        "name": "Estonia",
+        "language": "Estonian",
+        "continent": "Europe"
+    },
+    "EG": {
+        "name": "Egypt",
+        "language": "Arabic",
+        "continent": "Africa"
+    },
+    "EH": {
+        "name": "Western Sahara",
+        "language": "Arabic",
+        "continent": "Africa"
+    },
+    "ER": {
+        "name": "Eritrea",
+        "language": "Tigrinya, Arabic, English",
+        "continent": "Africa"
+    },
+    "ES": {
+        "name": "Spain",
+        "language": "Spanish",
+        "continent": "Europe"
+    },
+    "ET": {
+        "name": "Ethiopia",
+        "language": "Amharic",
+        "continent": "Africa"
+    },
+    "FI": {
+        "name": "Finland",
+        "language": "Finnish, Swedish",
+        "continent": "Europe"
+    },
+    "FJ": {
+        "name": "Fiji",
+        "language": "English, Fijian, Hindi",
+        "continent": "Oceania"
+    },
+    "FK": {
+        "name": "Falkland Islands",
+        "language": "English",
+        "continent": "South America"
+    },
+    "FM": {
+        "name": "Micronesia",
+        "language": "English",
+        "continent": "Oceania"
+    },
+    "FO": {
+        "name": "Faroe Islands",
+        "language": "Faroese, Danish",
+        "continent": "Europe"
+    },
+    "FR": {
+        "name": "France",
+        "language": "French",
+        "continent": "Europe"
+    },
+    "GA": {
+        "name": "Gabon",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "GB": {
+        "name": "United Kingdom",
+        "language": "English",
+        "continent": "Europe"
+    },
+    "GD": {
+        "name": "Grenada",
+        "language": "English",
+        "continent": "North America"
+    },
+    "GE": {
+        "name": "Georgia",
+        "language": "Georgian",
+        "continent": "Asia"
+    },
+    "GF": {
+        "name": "French Guiana",
+        "language": "French",
+        "continent": "South America"
+    },
+    "GG": {
+        "name": "Guernsey",
+        "language": "English",
+        "continent": "Europe"
+    },
+    "GH": {
+        "name": "Ghana",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "GI": {
+        "name": "Gibraltar",
+        "language": "English",
+        "continent": "Europe"
+    },
+    "GL": {
+        "name": "Greenland",
+        "language": "Greenlandic, Danish",
+        "continent": "North America"
+    },
+    "GM": {
+        "name": "Gambia",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "GN": {
+        "name": "Guinea",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "GP": {
+        "name": "Guadeloupe",
+        "language": "French",
+        "continent": "North America"
+    },
+    "GQ": {
+        "name": "Equatorial Guinea",
+        "language": "Spanish, French, Portuguese",
+        "continent": "Africa"
+    },
+    "GR": {
+        "name": "Greece",
+        "language": "Greek",
+        "continent": "Europe"
+    },
+    "GS": {
+        "name": "South Georgia and the South Sandwich Islands",
+        "language": "English",
+        "continent": "Antarctica"
+    },
+    "GT": {
+        "name": "Guatemala",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "GU": {
+        "name": "Guam",
+        "language": "English, Chamorro",
+        "continent": "Oceania"
+    },
+    "GW": {
+        "name": "Guinea-Bissau",
+        "language": "Portuguese",
+        "continent": "Africa"
+    },
+    "GY": {
+        "name": "Guyana",
+        "language": "English",
+        "continent": "South America"
+    },
+    "HK": {
+        "name": "Hong Kong",
+        "language": "Chinese, English",
+        "continent": "Asia"
+    },
+    "HM": {
+        "name": "Heard Island and McDonald Islands",
+        "language": "English",
+        "continent": "Antarctica"
+    },
+    "HN": {
+        "name": "Honduras",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "HR": {
+        "name": "Croatia",
+        "language": "Croatian",
+        "continent": "Europe"
+    },
+    "HT": {
+        "name": "Haiti",
+        "language": "French, Haitian Creole",
+        "continent": "North America"
+    },
+    "HU": {
+        "name": "Hungary",
+        "language": "Hungarian",
+        "continent": "Europe"
+    },
+    "ID": {
+        "name": "Indonesia",
+        "language": "Indonesian",
+        "continent": "Asia"
+    },
+    "IE": {
+        "name": "Ireland",
+        "language": "English, Irish",
+        "continent": "Europe"
+    },
+    "IL": {
+        "name": "Israel",
+        "language": "Hebrew, Arabic",
+        "continent": "Asia"
+    },
+    "IM": {
+        "name": "Isle of Man",
+        "language": "English, Manx",
+        "continent": "Europe"
+    },
+    "IN": {
+        "name": "India",
+        "language": "Hindi, English",
+        "continent": "Asia"
+    },
+    "IO": {
+        "name": "British Indian Ocean Territory",
+        "language": "English",
+        "continent": "Asia"
+    },
+    "IQ": {
+        "name": "Iraq",
+        "language": "Arabic, Kurdish",
+        "continent": "Asia"
+    },
+    
+    "IR": {
+        "name": "Iran",
+        "language": "Persian",
+        "continent": "Asia"
+    },
+    "IS": {
+        "name": "Iceland",
+        "language": "Icelandic",
+        "continent": "Europe"
+    },
+    "IT": {
+        "name": "Italy",
+        "language": "Italian",
+        "continent": "Europe"
+    },
+    "JE": {
+        "name": "Jersey",
+        "language": "English, French",
+        "continent": "Europe"
+    },
+    "JM": {
+        "name": "Jamaica",
+        "language": "English",
+        "continent": "North America"
+    },
+    "JO": {
+        "name": "Jordan",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "JP": {
+        "name": "Japan",
+        "language": "Japanese",
+        "continent": "Asia"
+    },
+    "KE": {
+        "name": "Kenya",
+        "language": "Swahili, English",
+        "continent": "Africa"
+    },
+    "KG": {
+        "name": "Kyrgyzstan",
+        "language": "Kyrgyz, Russian",
+        "continent": "Asia"
+    },
+    "KH": {
+        "name": "Cambodia",
+        "language": "Khmer",
+        "continent": "Asia"
+    },
+    "KI": {
+        "name": "Kiribati",
+        "language": "English, Gilbertese",
+        "continent": "Oceania"
+    },
+    "KM": {
+        "name": "Comoros",
+        "language": "Arabic, French",
+        "continent": "Africa"
+    },
+    "KN": {
+        "name": "Saint Kitts and Nevis",
+        "language": "English",
+        "continent": "North America"
+    },
+    "KP": {
+        "name": "North Korea",
+        "language": "Korean",
+        "continent": "Asia"
+    },
+    "KR": {
+        "name": "South Korea",
+        "language": "Korean",
+        "continent": "Asia"
+    },
+    "KW": {
+        "name": "Kuwait",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "KY": {
+        "name": "Cayman Islands",
+        "language": "English",
+        "continent": "North America"
+    },
+    "KZ": {
+        "name": "Kazakhstan",
+        "language": "Kazakh, Russian",
+        "continent": "Asia"
+    },
+    "LA": {
+        "name": "Laos",
+        "language": "Lao",
+        "continent": "Asia"
+    },
+    "LB": {
+        "name": "Lebanon",
+        "language": "Arabic, French",
+        "continent": "Asia"
+    },
+    "LC": {
+        "name": "Saint Lucia",
+        "language": "English",
+        "continent": "North America"
+    },
+    "LI": {
+        "name": "Liechtenstein",
+        "language": "German",
+        "continent": "Europe"
+    },
+    "LK": {
+        "name": "Sri Lanka",
+        "language": "Sinhala, Tamil",
+        "continent": "Asia"
+    },
+    "LR": {
+        "name": "Liberia",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "LS": {
+        "name": "Lesotho",
+        "language": "Sesotho, English",
+        "continent": "Africa"
+    },
+    "LT": {
+        "name": "Lithuania",
+        "language": "Lithuanian",
+        "continent": "Europe"
+    },
+    "LU": {
+        "name": "Luxembourg",
+        "language": "Luxembourgish, French, German",
+        "continent": "Europe"
+    },
+    "LV": {
+        "name": "Latvia",
+        "language": "Latvian",
+        "continent": "Europe"
+    },
+    "LY": {
+        "name": "Libya",
+        "language": "Arabic",
+        "continent": "Africa"
+    },
+    "MA": {
+        "name": "Morocco",
+        "language": "Arabic",
+        "continent": "Africa"
+    },
+    "MC": {
+        "name": "Monaco",
+        "language": "French",
+        "continent": "Europe"
+    },
+    "MD": {
+        "name": "Moldova",
+        "language": "Romanian",
+        "continent": "Europe"
+    },
+    "ME": {
+        "name": "Montenegro",
+        "language": "Montenegrin",
+        "continent": "Europe"
+    },
+    "MF": {
+        "name": "Saint Martin",
+        "language": "French",
+        "continent": "North America"
+    },
+    "MG": {
+        "name": "Madagascar",
+        "language": "Malagasy, French",
+        "continent": "Africa"
+    },
+    "MH": {
+        "name": "Marshall Islands",
+        "language": "Marshallese, English",
+        "continent": "Oceania"
+    },
+    "MK": {
+        "name": "North Macedonia",
+        "language": "Macedonian",
+        "continent": "Europe"
+    },
+    "ML": {
+        "name": "Mali",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "MM": {
+        "name": "Myanmar",
+        "language": "Burmese",
+        "continent": "Asia"
+    },
+    "MN": {
+        "name": "Mongolia",
+        "language": "Mongolian",
+        "continent": "Asia"
+    },
+    "MO": {
+        "name": "Macao",
+        "language": "Chinese, Portuguese",
+        "continent": "Asia"
+    },
+    "MP": {
+        "name": "Northern Mariana Islands",
+        "language": "English, Chamorro",
+        "continent": "Oceania"
+    },
+    "MQ": {
+        "name": "Martinique",
+        "language": "French",
+        "continent": "North America"
+    },
+    "MR": {
+        "name": "Mauritania",
+        "language": "Arabic",
+        "continent": "Africa"
+    },
+    "MS": {
+        "name": "Montserrat",
+        "language": "English",
+        "continent": "North America"
+    },
+    "MT": {
+        "name": "Malta",
+        "language": "Maltese, English",
+        "continent": "Europe"
+    },
+    "MU": {
+        "name": "Mauritius",
+        "language": "English, French",
+        "continent": "Africa"
+    },
+    "MV": {
+        "name": "Maldives",
+        "language": "Divehi",
+        "continent": "Asia"
+    },
+    "MW": {
+        "name": "Malawi",
+        "language": "English, Chichewa",
+        "continent": "Africa"
+    },
+    "MX": {
+        "name": "Mexico",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "MY": {
+        "name": "Malaysia",
+        "language": "Malay",
+        "continent": "Asia"
+    },
+    "MZ": {
+        "name": "Mozambique",
+        "language": "Portuguese",
+        "continent": "Africa"
+    },
+    "NA": {
+        "name": "Namibia",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "NC": {
+        "name": "New Caledonia",
+        "language": "French",
+        "continent": "Oceania"
+    },
+    "NE": {
+        "name": "Niger",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "NF": {
+        "name": "Norfolk Island",
+        "language": "English",
+        "continent": "Oceania"
+    },
+    "NG": {
+        "name": "Nigeria",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "NI": {
+        "name": "Nicaragua",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "NL": {
+        "name": "Netherlands",
+        "language": "Dutch",
+        "continent": "Europe"
+    },
+    "NO": {
+        "name": "Norway",
+        "language": "Norwegian",
+        "continent": "Europe"
+    },
+    "NP": {
+        "name": "Nepal",
+        "language": "Nepali",
+        "continent": "Asia"
+    },
+    "NR": {
+        "name": "Nauru",
+        "language": "Nauruan, English",
+        "continent": "Oceania"
+    },
+    "NU": {
+        "name": "Niue",
+        "language": "English, Niuean",
+        "continent": "Oceania"
+    },
+    "NZ": {
+        "name": "New Zealand",
+        "language": "English, Maori",
+        "continent": "Oceania"
+    },
+    "OM": {
+        "name": "Oman",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "PA": {
+        "name": "Panama",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "PE": {
+        "name": "Peru",
+        "language": "Spanish",
+        "continent": "South America"
+    },
+    "PF": {
+        "name": "French Polynesia",
+        "language": "French",
+        "continent": "Oceania"
+    },
+    "PG": {
+        "name": "Papua New Guinea",
+        "language": "English, Tok Pisin, Hiri Motu",
+        "continent": "Oceania"
+    },
+    "PH": {
+        "name": "Philippines",
+        "language": "Filipino, English",
+        "continent": "Asia"
+    },
+    "PK": {
+        "name": "Pakistan",
+        "language": "Urdu, English",
+        "continent": "Asia"
+    },
+    "PL": {
+        "name": "Poland",
+        "language": "Polish",
+        "continent": "Europe"
+    },
+    "PM": {
+        "name": "Saint Pierre and Miquelon",
+        "language": "French",
+        "continent": "North America"
+    },
+    "PN": {
+        "name": "Pitcairn",
+        "language": "English",
+        "continent": "Oceania"
+    },
+    "PR": {
+        "name": "Puerto Rico",
+        "language": "Spanish, English",
+        "continent": "North America"
+    },
+    "PS": {
+        "name": "Palestine",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "PT": {
+        "name": "Portugal",
+        "language": "Portuguese",
+        "continent": "Europe"
+    },
+    "PW": {
+        "name": "Palau",
+        "language": "English, Palauan",
+        "continent": "Oceania"
+    },
+    "PY": {
+        "name": "Paraguay",
+        "language": "Spanish, Guaraní",
+        "continent": "South America"
+    },
+    "QA": {
+        "name": "Qatar",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "RE": {
+        "name": "Réunion",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "RO": {
+        "name": "Romania",
+        "language": "Romanian",
+        "continent": "Europe"
+    },
+    "RS": {
+        "name": "Serbia",
+        "language": "Serbian",
+        "continent": "Europe"
+    },
+    "RU": {
+        "name": "Russia",
+        "language": "Russian",
+        "continent": "Europe"
+    },
+    "RW": {
+        "name": "Rwanda",
+        "language": "Kinyarwanda, French, English",
+        "continent": "Africa"
+    },
+    "SA": {
+        "name": "Saudi Arabia",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "SB": {
+        "name": "Solomon Islands",
+        "language": "English",
+        "continent": "Oceania"
+    },
+    "SC": {
+        "name": "Seychelles",
+        "language": "Seychellois Creole, English, French",
+        "continent": "Africa"
+    },
+    "SD": {
+        "name": "Sudan",
+        "language": "Arabic, English",
+        "continent": "Africa"
+    },
+    "SE": {
+        "name": "Sweden",
+        "language": "Swedish",
+        "continent": "Europe"
+    },
+    "SG": {
+        "name": "Singapore",
+        "language": "English, Malay, Mandarin, Tamil",
+        "continent": "Asia"
+    },
+    "SH": {
+        "name": "Saint Helena",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "SI": {
+        "name": "Slovenia",
+        "language": "Slovenian",
+        "continent": "Europe"
+    },
+    "SJ": {
+        "name": "Svalbard and Jan Mayen",
+        "language": "Norwegian",
+        "continent": "Europe"
+    },
+    "SK": {
+        "name": "Slovakia",
+        "language": "Slovak",
+        "continent": "Europe"
+    },
+    "SL": {
+        "name": "Sierra Leone",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "SM": {
+        "name": "San Marino",
+        "language": "Italian",
+        "continent": "Europe"
+    },
+    "SN": {
+        "name": "Senegal",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "SO": {
+        "name": "Somalia",
+        "language": "Somali, Arabic",
+        "continent": "Africa"
+    },
+    "SR": {
+        "name": "Suriname",
+        "language": "Dutch",
+        "continent": "South America"
+    },
+    "SS": {
+        "name": "South Sudan",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "ST": {
+        "name": "Sao Tome and Principe",
+        "language": "Portuguese",
+        "continent": "Africa"
+    },
+    "SV": {
+        "name": "El Salvador",
+        "language": "Spanish",
+        "continent": "North America"
+    },
+    "SX": {
+        "name": "Sint Maarten",
+        "language": "Dutch, English",
+        "continent": "North America"
+    },
+    "SY": {
+        "name": "Syria",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "SZ": {
+        "name": "Swaziland",
+        "language": "English, Swazi",
+        "continent": "Africa"
+    },
+    "TC": {
+        "name": "Turks and Caicos Islands",
+        "language": "English",
+        "continent": "North America"
+    },
+    "TD": {
+        "name": "Chad",
+        "language": "Arabic, French",
+        "continent": "Africa"
+    },
+    "TF": {
+        "name": "French Southern Territories",
+        "language": "French",
+        "continent": "Antarctica"
+    },
+    "TG": {
+        "name": "Togo",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "TH": {
+        "name": "Thailand",
+        "language": "Thai",
+        "continent": "Asia"
+    },
+    "TJ": {
+        "name": "Tajikistan",
+        "language": "Tajik, Russian",
+        "continent": "Asia"
+    },
+    "TK": {
+        "name": "Tokelau",
+        "language": "Tokelauan, English",
+        "continent": "Oceania"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "language": "Tetum, Portuguese",
+        "continent": "Asia"
+    },
+    "TM": {
+        "name": "Turkmenistan",
+        "language": "Turkmen",
+        "continent": "Asia"
+    },
+    "TN": {
+        "name": "Tunisia",
+        "language": "Arabic",
+        "continent": "Africa"
+    },
+    "TO": {
+        "name": "Tonga",
+        "language": "English, Tongan",
+        "continent": "Oceania"
+    },
+    "TR": {
+        "name": "Turkey",
+        "language": "Turkish",
+        "continent": "Asia"
+    },
+    "TT": {
+        "name": "Trinidad and Tobago",
+        "language": "English",
+        "continent": "North America"
+    },
+    "TV": {
+        "name": "Tuvalu",
+        "language": "Tuvaluan, English",
+        "continent": "Oceania"
+    },
+    "TW": {
+        "name": "Taiwan",
+        "language": "Mandarin Chinese",
+        "continent": "Asia"
+    },
+    "TZ": {
+        "name": "Tanzania",
+        "language": "Swahili, English",
+        "continent": "Africa"
+    },
+    "UA": {
+        "name": "Ukraine",
+        "language": "Ukrainian",
+        "continent": "Europe"
+    },
+    "UG": {
+        "name": "Uganda",
+        "language": "English, Swahili",
+        "continent": "Africa"
+    },
+    "UM": {
+        "name": "US Minor Outlying Islands",
+        "language": "English",
+        "continent": "Oceania"
+    },
+    "US": {
+        "name": "United States",
+        "language": "English",
+        "continent": "North America"
+    },
+    "UY": {
+        "name": "Uruguay",
+        "language": "Spanish",
+        "continent": "South America"
+    },
+    "UZ": {
+        "name": "Uzbekistan",
+        "language": "Uzbek",
+        "continent": "Asia"
+    },
+    "VA": {
+        "name": "Vatican City",
+        "language": "Italian, Latin",
+        "continent": "Europe"
+    },
+    "VC": {
+        "name": "Saint Vincent and the Grenadines",
+        "language": "English",
+        "continent": "North America"
+    },
+    "VE": {
+        "name": "Venezuela",
+        "language": "Spanish",
+        "continent": "South America"
+    },
+    "VG": {
+        "name": "British Virgin Islands",
+        "language": "English",
+        "continent": "North America"
+    },
+    "VI": {
+        "name": "U.S. Virgin Islands",
+        "language": "English",
+        "continent": "North America"
+    },
+    "VN": {
+        "name": "Vietnam",
+        "language": "Vietnamese",
+        "continent": "Asia"
+    },
+    "VU": {
+        "name": "Vanuatu",
+        "language": "Bislama, English, French",
+        "continent": "Oceania"
+    },
+    "WF": {
+        "name": "Wallis and Futuna",
+        "language": "French",
+        "continent": "Oceania"
+    },
+    "WS": {
+        "name": "Samoa",
+        "language": "Samoan, English",
+        "continent": "Oceania"
+    },
+    "XK": {
+        "name": "Kosovo",
+        "language": "Albanian, Serbian",
+        "continent": "Europe"
+    },
+    "YE": {
+        "name": "Yemen",
+        "language": "Arabic",
+        "continent": "Asia"
+    },
+    "YT": {
+        "name": "Mayotte",
+        "language": "French",
+        "continent": "Africa"
+    },
+    "ZA": {
+        "name": "South Africa",
+        "language": "Afrikaans, English, and 9 others",
+        "continent": "Africa"
+    },
+    "ZM": {
+        "name": "Zambia",
+        "language": "English",
+        "continent": "Africa"
+    },
+    "ZW": {
+        "name": "Zimbabwe",
+        "language": "English, Shona, Ndebele",
+        "continent": "Africa"
+    }
 }
